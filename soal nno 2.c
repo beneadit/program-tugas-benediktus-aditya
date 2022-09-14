@@ -1,6 +1,6 @@
 /*prediksikan berapa besar MW dari energi yang akan dihasilkan
 jika 90% dari pekerjaan selesai di air oleh gravitasi yang dikonversi
-ke energi listrik*/
+ke energi listrik disusun oleh benediktus aditya pada tanggal 12 september 2022*/
 #include<stdio.h>
 #define GRAVITAS 9.80
 #define MASSA_AIR 1000
