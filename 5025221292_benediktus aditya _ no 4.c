@@ -1,6 +1,6 @@
 /* konversikan mata uang dari dollar amerika ke pounds inggris*/
 #include <stdio.h>
-
+#include <conio.h>
 
 int main(void)
 {
